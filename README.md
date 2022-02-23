@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/gregory alves" target="blank"><img align="center"
+  <a href="https://dev.to/gregoryalvesdebrito" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
       alt="gregory alves" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/gregalves" target="blank"><img align="center"
